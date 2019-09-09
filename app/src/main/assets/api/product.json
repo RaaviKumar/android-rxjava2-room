@@ -1,0 +1,34 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Chatpate Chole Bowl (Half Kg)",
+    "price": 170,
+    "product_imageUrl": "https://product-assets.faasos.io/production/product/image_1553629774963_Chatpate%20Chole%20%281%29.jpg",
+    "small_description": "Chole cooked in thick masala gravy gives the perfect spicy smack on the tongue!",
+    "is_veg": 1
+  },
+  {
+    "product_id": 2,
+    "product_name": "Chatpate Chole Bowl (Half Kg)",
+    "price": 170,
+    "product_imageUrl": "https://product-assets.faasos.io/production/product/image_1553629774963_Chatpate%20Chole%20%281%29.jpg",
+    "small_description": "Chole cooked in thick masala gravy gives the perfect spicy smack on the tongue!",
+    "is_veg": 1
+  },
+  {
+    "product_id": 3,
+    "product_name": "Chatpate Chole Bowl (Half Kg)",
+    "price": 170,
+    "product_imageUrl": "https://product-assets.faasos.io/production/product/image_1553629774963_Chatpate%20Chole%20%281%29.jpg",
+    "small_description": "Chole cooked in thick masala gravy gives the perfect spicy smack on the tongue!",
+    "is_veg": 1
+  },
+  {
+    "product_id": 4,
+    "product_name": "Chatpate Chole Bowl (Half Kg)",
+    "price": 170,
+    "product_imageUrl": "https://product-assets.faasos.io/production/product/image_1553629774963_Chatpate%20Chole%20%281%29.jpg",
+    "small_description": "Chole cooked in thick masala gravy gives the perfect spicy smack on the tongue!",
+    "is_veg": 1
+  }
+]
